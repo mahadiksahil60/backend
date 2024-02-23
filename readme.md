@@ -1,1 +1,1 @@
-this is a backend project with javascript
+this is a practice repository for backend using node.js, express and mongodb.
